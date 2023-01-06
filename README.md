@@ -30,4 +30,5 @@ El Inventario se almacena en un documento **CSV**, y los tickets de compra en un
 
 ![](https://github.com/hector-aps/Inventario-Venta/blob/main/README%20Images/Captura%20de%20pantalla%20(459).png?raw=true)
 
--La documentacion de funciones no se ha agregado, pero lo hare pronto-
+
+La documentacion de funciones no se ha agregado, pero lo hare pronto
